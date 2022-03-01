@@ -5,3 +5,4 @@ Modeling the algorithm of controlling processing that occurs when counting up (a
 This is a model of how counting down/up can be displayed. 
 
 ![](Image/DaysLeftofClass.png')
+
